@@ -1,0 +1,23 @@
+{
+  "name": "2.1-beer-layout",
+  "version": "0.0.0",
+  "authors": [
+    "scott6455 <scottgreen555@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "fontawesome#~4.4.0",
+    "meyer-reset": "bower-meyer-reset#*"
+  }
+}
