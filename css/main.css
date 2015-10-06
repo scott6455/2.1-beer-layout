@@ -3,3 +3,34 @@
 *, *:after, *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
 body, html { font-size: 100%; padding: 0; margin: 0;}
 
+.grid {
+    margin: 0 auto;
+    padding: 4em 1em;
+    max-width: 100%;
+    text-align: center;
+    overflow: hidden;
+}
+
+.beer {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    min-width: 15em;
+    margin: 0 1em 2.5em;
+    padding: 1.5em 1.5em 2em;
+    background: #505050;
+    border-radius: 5px;
+}
+
+.beer_pic {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+/*--
+.info {
+    display: block;
+    padding: 1em 0;
+}
+--*/
